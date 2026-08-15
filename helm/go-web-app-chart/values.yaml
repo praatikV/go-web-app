@@ -3,7 +3,7 @@ replicaCount: 1
 image:
   repository: pratikverman/go-web-page
   pullPolicy: IfNotPresent
-  tag: "v1"
+  tag: "31874960535"
 
 
 ingress:
